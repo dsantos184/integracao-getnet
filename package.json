@@ -1,0 +1,23 @@
+{
+  "name": "integracao-getnet",
+  "version": "1.0.0",
+  "description": "biblioteca de integracao api getnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsantos184/integracao-getnet.git"
+  },
+  "keywords": [
+    "api",
+    "getnet"
+  ],
+  "author": "Diogo Santos <diogosantos184@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsantos184/integracao-getnet/issues"
+  },
+  "homepage": "https://github.com/dsantos184/integracao-getnet#readme"
+}
