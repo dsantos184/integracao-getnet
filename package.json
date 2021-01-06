@@ -2,7 +2,7 @@
   "name": "integracao-getnet",
   "version": "1.0.0",
   "description": "biblioteca de integracao api getnet",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/dsantos184/integracao-getnet/issues"
   },
-  "homepage": "https://github.com/dsantos184/integracao-getnet#readme"
+  "homepage": "https://github.com/dsantos184/integracao-getnet#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
